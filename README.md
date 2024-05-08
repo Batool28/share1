@@ -1,4 +1,5 @@
-Sharing Economy Platform
+ ~ Sharing Economy Platform
+
 The “Car Rental Management System” is a web-based application designed to facilitate the process of
 renting cars from a single company. The primary objective of this system is to provide a platform where
 a car rental company can list its vehicles available for rent, and customers can easily browse, select, and
@@ -13,7 +14,7 @@ HTML/CSS, considering their wide usage in web development and the user’s famil
 technologies. The system will also incorporate necessary security measures to protect sensitive data and
 ensure secure transactions.
 
-PURPOSE OF PROJECT
+~ PURPOSE OF PROJECT
 The purpose of the “Car Rental Management System” project is to create a digital platform that simplifies
 and enhances the car rental process for both the car rental company and its customers. This project is a
 step towards leveraging technology to revolutionize traditional business processes and offer superior
