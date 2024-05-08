@@ -20,7 +20,38 @@ and enhances the car rental process for both the car rental company and its cust
 step towards leveraging technology to revolutionize traditional business processes and offer superior
 services to customers..
 
-Goals:
+
+~ Goals:
 The aim of this project is the following:
 The main goal of the project is to build an economic sharing platform where renters can rent or buy cars
 efficiently and securely.
+
+
+~ Objective:
+• Create a platform where car owners can list their vehicles for rent, providing them with an
+opportunity to generate income.
+• Facilitate the process of renting or purchasing by streamlining transactions and simplifying the
+user interface.
+• Organize properties and make exhibition presentations to showcase available cars in an appealing
+and informative manner.
+• Ease of communication between the user and site staff to ensure a smooth rental experience and
+prompt customer service.
+Project Scope
+• Design and implement a user-friendly web platform that allows car owners to list their vehicles
+and renters to browse the inventory.
+• Ensure the platform supports various car types, including economy, luxury, and electric vehicles.
+
+~ The users:
+The customer
+• The customer able to rent car
+• The customer able to Search for any offer
+
+
+~ Benefits
+• Easy to use, free and available to everyone
+• Saving time and effort
+• Reduces crowding in reservations
+• It helps the owner invest in his cars.
+
+
+
